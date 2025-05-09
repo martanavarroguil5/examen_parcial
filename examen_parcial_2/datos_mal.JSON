@@ -1,0 +1,21 @@
+[
+    {
+      "info": "Evento1",
+      "details": "Descripción1",
+      "date": "2023-05-01",
+      "content": "Contenido1"
+    },
+    {
+      "info": "Evento2",
+      "details": "Descripción2",
+      "date": "2023-05-02",
+      "content": "Contenido2"
+    },
+    {
+      "info": "Evento3",
+      "details": "Descripción3",
+      "date": "2023-05-03",
+      "content": "Contenido3"
+    }
+  ]
+  
